@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
   `streamlit run app_trial.py`
   
 ### RAG Model 
-The repository ```RAG``` is for RAG Model using the Q-A bank given to us.
+The repository ```RAG_multilingual``` is for RAG Model using the Q-A bank given to us.
  
 - Final app is in ```app.py```
 
